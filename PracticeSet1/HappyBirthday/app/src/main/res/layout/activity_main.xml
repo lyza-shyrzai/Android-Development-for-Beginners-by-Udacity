@@ -12,7 +12,8 @@
         android:layout_height="wrap_content"
         android:text="Happy Birthday friend! :)"
         android:id="@+id/happy_birthday"
-        android:textSize="36sp"/>
+        android:textSize="36sp"
+        android:fontFamily="sans-serif-light"/>
 
     <TextView
         android:layout_width="wrap_content"
@@ -21,13 +22,12 @@
         android:layout_alignParentRight="true"
         android:layout_alignParentBottom="true"
         android:id="@+id/from_friend"
-        android:textSize="36sp"/>
+        android:textSize="36sp"
+        android:fontFamily="sans-serif-light"/>
 
     <ImageView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         app:srcCompat="@drawable/android"
         android:id="@+id/imageView" />
-
-
 </RelativeLayout>
