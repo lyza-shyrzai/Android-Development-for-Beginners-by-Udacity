@@ -21,7 +21,8 @@
         android:id="@+id/happy_birthday"
         android:textSize="36sp"
         android:fontFamily="sans-serif-light"
-        android:textColor="@android:color/white"/>
+        android:textColor="@android:color/white"
+        android:padding="20dp"/>
 
     <TextView
         android:layout_width="wrap_content"
@@ -32,5 +33,6 @@
         android:id="@+id/from_friend"
         android:textSize="36sp"
         android:fontFamily="sans-serif-light"
-        android:textColor="@android:color/white"/>
+        android:textColor="@android:color/white"
+        android:padding="20dp"/>
 </RelativeLayout>
