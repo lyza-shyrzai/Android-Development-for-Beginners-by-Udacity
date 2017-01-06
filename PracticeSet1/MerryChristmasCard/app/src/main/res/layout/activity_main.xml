@@ -17,8 +17,13 @@
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Hello World!"
+        android:text="Merry Christmas
+and Happy New Year! :)"
         android:textColor="@android:color/white"
-        android:id="@+id/textView" />
+        android:id="@+id/textView"
+        android:textSize="28sp"
+        android:fontFamily="sans-serif"
+        android:textStyle="italic"
+        android:padding="18dp"/>
 
 </RelativeLayout>
