@@ -31,6 +31,8 @@ Second project: [Merry Cristmas Card](https://github.com/Liza-S/Android-Developm
 
 ![](https://github.com/Liza-S/Android-Development-for-Beginners-by-Udacity/blob/master/PracticeSet1/MerryChristmasCard/ScreenShots/app.png)
 
+Task: create a Own Card. I done Merry Christmas Card for Android tablets. Everything was done right.
+
 ### TODO
 
 1. Find the picture and place it correctly
