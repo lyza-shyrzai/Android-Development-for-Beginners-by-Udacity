@@ -51,10 +51,15 @@ public class MainActivity extends AppCompatActivity {
     }
 
     /**
+     * Cups of coffee
+     */
+    int quantity = 0;
+
+    /**
      * This method is called when the plus button is clicked.
      */
     public void increment(View view) {
-        int quantity = 3;
+        quantity = ++quantity;
         display(quantity);
     }
 
@@ -62,7 +67,7 @@ public class MainActivity extends AppCompatActivity {
      * This method is called when the minus button is clicked.
      */
     public void decrement(View view) {
-        int quantity = 1;
+        quantity = --quantity;
         display(quantity);
     }
 }
