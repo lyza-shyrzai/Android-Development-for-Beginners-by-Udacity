@@ -19,6 +19,11 @@ import java.text.NumberFormat;
  */
 public class MainActivity extends AppCompatActivity {
 
+    /**
+     * Cups of coffee
+     */
+    int quantity = 0;
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -26,16 +31,11 @@ public class MainActivity extends AppCompatActivity {
     }
 
     /**
-     * Cups of coffee
-     */
-    int quantity = 0;
-
-    /**
      * This method is called when the order button is clicked.
      */
     public void submitOrder(View view) {
-        display(quantity);
-        displayPrice(quantity * 5);
+        String priceMessage = "$" + (quantity * 5) + " for " + quantity + " cups of coffee, please.";
+        displayMessage(priceMessage);
     }
 
     /**
@@ -47,11 +47,11 @@ public class MainActivity extends AppCompatActivity {
     }
 
     /**
-     * This method displays the given price on the screen.
+     * This method displays the given text on the screen.
      */
-    private void displayPrice(int number) {
+    private void displayMessage(String message) {
         TextView priceTextView = (TextView) findViewById(R.id.price_text_view);
-        priceTextView.setText(NumberFormat.getCurrencyInstance().format(number));
+        priceTextView.setText(message);
     }
 
     /**
