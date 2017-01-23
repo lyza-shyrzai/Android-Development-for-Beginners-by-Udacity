@@ -32,7 +32,8 @@ public class MainActivity extends AppCompatActivity {
      * Increase the score for Team A by 3 point.
      */
     public void addThreeForTeamA(View v) {
-        displayForTeamA(3);
+        scoreTeamA = scoreTeamA + 3;
+        displayForTeamA(scoreTeamA);
     }
 
     /**
