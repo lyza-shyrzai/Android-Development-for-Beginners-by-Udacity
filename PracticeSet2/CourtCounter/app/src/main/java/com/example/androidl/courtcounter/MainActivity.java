@@ -18,14 +18,16 @@ public class MainActivity extends AppCompatActivity {
      * Increase the score for Team A by 1 point.
      */
     public void addOneForTeamA(View v) {
-        displayForTeamA(1);
+        ++scoreTeamA;
+        displayForTeamA(scoreTeamA);
     }
 
     /**
      * Increase the score for Team A by 2 point.
      */
     public void addTwoForTeamA(View v) {
-        displayForTeamA(2);
+        scoreTeamA = scoreTeamA + 2;
+        displayForTeamA(scoreTeamA);
     }
 
     /**
