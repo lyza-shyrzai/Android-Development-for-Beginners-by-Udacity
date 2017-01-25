@@ -3,10 +3,9 @@ My solution of tasks of course [Android Development for Beginners by Udacity](ht
 
 Projects:
 
-1. [Happy Birthday App](https://github.com/Liza-S/Android-Development-for-Beginners-by-Udacity/blob/master/PracticeSet1/HappyBirthday/README.md)
-2. [Merry Cristmas Card](https://github.com/Liza-S/Android-Development-for-Beginners-by-Udacity/blob/master/PracticeSet1/MerryChristmasCard/README.md)
-
-
+1. [Happy Birthday App](https://github.com/Liza-S/Android-Development-for-Beginners-by-Udacity/blob/master/PracticeSet1/HappyBirthday)
+2. [Merry Cristmas Card](https://github.com/Liza-S/Android-Development-for-Beginners-by-Udacity/blob/master/PracticeSet1/MerryChristmasCard)
+3. [Court Counter](https://github.com/Liza-S/Android-Development-for-Beginners-by-Udacity/tree/master/PracticeSet2/CourtCounter)
 
 ------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -43,3 +42,18 @@ Task: create a Own Card. I done Merry Christmas Card for Android tablets. Everyt
 4. Correctly post the text of congratulations considering screen size
 
 ------------------------------------------------------------------------------------------
+Third project: [Court Counter](https://github.com/Liza-S/Android-Development-for-Beginners-by-Udacity/tree/master/PracticeSet2/CourtCounter)
+
+![](https://github.com/Liza-S/Android-Development-for-Beginners-by-Udacity/blob/master/PracticeSet2/CourtCounter/ScreenShot/app.png)
+
+-------
+
+I made all the tasks programmatically and will introduce You what I have done overall.
+
+This application counts the number of shots in the basketball hoop each team.
+
+This app consists of:
+
+1. 3 buttons for each team
+2. TextView which count point of each team
+3. Reset button which refresh score
