@@ -7,6 +7,7 @@ Projects:
 2. [Merry Cristmas Card](https://github.com/Liza-S/Android-Development-for-Beginners-by-Udacity/blob/master/PracticeSet1/MerryChristmasCard)
 3. [Court Counter](https://github.com/Liza-S/Android-Development-for-Beginners-by-Udacity/tree/master/PracticeSet2/CourtCounter)
 4. [Cookies](https://github.com/Liza-S/Android-Development-for-Beginners-by-Udacity/tree/master/Lesson3/Cookies)
+5. [Menu](https://github.com/Liza-S/Android-Development-for-Beginners-by-Udacity/tree/master/Lesson3/Menu)
 
 ------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -67,10 +68,21 @@ Fourth project: [Cookies](https://github.com/Liza-S/Android-Development-for-Begi
 
 ![](https://github.com/Liza-S/Android-Development-for-Beginners-by-Udacity/blob/master/Lesson3/Cookies/screenshots/app.gif)
 
-The app is done as task of course [Android Basics: User Input](https://www.udacity.com/course/android-development-for-beginners--ud837).
-
 ####Task: Hook up the “Eat Cookie" button so that, when it's clicked, the image and the text change. 
 
 Task have been done by me programmatically.
 
 [Screenshots](https://github.com/Liza-S/Android-Development-for-Beginners-by-Udacity/tree/master/Lesson3/Cookies/screenshots)
+
+-------------------------------------------------
+
+Fifth project: [Menu](https://github.com/Liza-S/Android-Development-for-Beginners-by-Udacity/tree/master/Lesson3/Menu)
+
+![](https://github.com/Liza-S/Android-Development-for-Beginners-by-Udacity/blob/master/Lesson3/Menu/screenshots/app.png)
+
+####Task: 
+When you press the button Print menu to logs the XML code has already been set up to trigger a method called printToLogs. Add code to this method to read data from each of the menu item TextViews and to print the value of each menu item to the logs.
+
+Task have been done by me programmatically. In the log, when you press the button, the menu list appears, which was on application screen.
+
+![](https://github.com/Liza-S/Android-Development-for-Beginners-by-Udacity/blob/master/Lesson3/Menu/screenshots/logs.jpg)
