@@ -16,9 +16,17 @@
         android:paddingTop="@dimen/activity_vertical_margin"
         tools:context="com.example.android.justjava.MainActivity">
 
+        <EditText
+            android:id="@+id/name_field"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Name"
+            android:inputType="textCapWords" />
+
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
+            android:layout_marginTop="16dp"
             android:paddingBottom="24dp"
             android:text="Toppings"
             android:textAllCaps="true" />
@@ -102,4 +110,5 @@
             android:onClick="submitOrder"
             android:text="Order" />
     </LinearLayout>
+
 </ScrollView>
