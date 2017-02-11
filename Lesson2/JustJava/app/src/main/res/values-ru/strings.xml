@@ -1,14 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">Просто Java</string>
-    <string name="addChocolate">Добавить шоколад?</string>
-    <string name="addWhippedCream">Добавить взбитые сливки?</string>
+    <string name="addChocolate">Добавлен шоколад?</string>
+    <string name="addWhippedCream">Добавлены взбитые сливки?</string>
     <string name="chocolate">Шоколад</string>
     <string name="order">Заказать!</string>
-    <string name="order_summary_name">Имя</string>
     <string name="quantity">Кол-во</string>
-    <string name="thank_you">Спасибо! :)</string>
+    <string name="thank_you">Спасибо за заказ! :)</string>
     <string name="toppings">Начинка</string>
-    <string name="total">Стоимость:</string>
+    <string name="total">Стоимость: $</string>
     <string name="whipped_cream">Взбитые сливки</string>
+    <string name="email">"Просто Java для "</string>
+    <string name="minus_one">Вы не можете заказать меньше одной чашки кофе!</string>
+    <string name="one_hundred">Вы не можете заказать больше ста чашек кофе!</string>
+    <string name="name">Имя</string>
+    <string name="order_summary_name">"Имя: "</string>
 </resources>

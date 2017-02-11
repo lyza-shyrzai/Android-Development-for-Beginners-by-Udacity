@@ -11,4 +11,8 @@
     <string name="addChocolate">Add chocolate?</string>
     <string name="total">Total: $ </string>
     <string name="order_summary_name">Name</string>
+    <string name="email">Just Java order for </string>
+    <string name="one_hundred">You cannot have more than 100 coffees</string>
+    <string name="minus_one">You cannot order less than 1 cup!</string>
+    <string name="name">Name</string>
 </resources>

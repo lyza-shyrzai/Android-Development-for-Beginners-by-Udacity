@@ -64,7 +64,7 @@ public class MainActivity extends AppCompatActivity {
 
         Intent intent = new Intent(Intent.ACTION_SENDTO);
         intent.setData(Uri.parse("mailto:")); // only email apps should handle this
-        intent.putExtra(Intent.EXTRA_SUBJECT, "Just Java order for " + name);
+        intent.putExtra(Intent.EXTRA_SUBJECT, getString(R.string.email) + name);
         intent.putExtra(Intent.EXTRA_TEXT, priceMessage);
         if (intent.resolveActivity(getPackageManager()) != null) {
             startActivity(intent);
@@ -129,7 +129,7 @@ public class MainActivity extends AppCompatActivity {
     public void increment(View view) {
         if (quantity == 100) {
             // Show an error message as a toast
-            makeText(this, "You cannot have more than 100 coffees", Toast.LENGTH_SHORT).show();
+            makeText(this, R.string.one_hundred, Toast.LENGTH_SHORT).show();
             // Exit this method early because there's nothing left to do
             return;
         }
@@ -143,7 +143,7 @@ public class MainActivity extends AppCompatActivity {
     public void decrement(View view) {
         if (quantity < 1) {
             // Show an error message as a toast
-            Toast.makeText(this, "You can't order less than 1 cup!", Toast.LENGTH_SHORT).show();
+            Toast.makeText(this, R.string.minus_one, Toast.LENGTH_SHORT).show();
             return;
         }
         quantity = --quantity;
