@@ -8,14 +8,20 @@ package com.example.android.justjava;
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
 import android.util.Log;
+import android.view.Gravity;
 import android.view.View;
 import android.widget.CheckBox;
 import android.widget.EditText;
 import android.widget.TextView;
+import android.widget.Toast;
 
 import com.example.android.justjava.R;
 
 import java.text.NumberFormat;
+
+import static android.icu.lang.UCharacter.GraphemeClusterBreak.L;
+import static android.icu.lang.UCharacter.GraphemeClusterBreak.T;
+import static android.widget.Toast.makeText;
 
 /**
  * This app displays an order form to order coffee.
@@ -25,7 +31,7 @@ public class MainActivity extends AppCompatActivity {
     /**
      * Cups of coffee
      */
-    int quantity = 0;
+    int quantity = 1;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -119,6 +125,12 @@ public class MainActivity extends AppCompatActivity {
      * This method is called when the plus button is clicked.
      */
     public void increment(View view) {
+        if (quantity == 100) {
+            // Show an error message as a toast
+            makeText(this, "You cannot have more than 100 coffees", Toast.LENGTH_SHORT).show();
+            // Exit this method early because there's nothing left to do
+            return;
+        }
         quantity = ++quantity;
         displayQuantity(quantity);
     }
@@ -127,6 +139,11 @@ public class MainActivity extends AppCompatActivity {
      * This method is called when the minus button is clicked.
      */
     public void decrement(View view) {
+        if (quantity < 1) {
+            // Show an error message as a toast
+            Toast.makeText(this, "You can't order less than 1 cup!", Toast.LENGTH_SHORT).show();
+            return;
+        }
         quantity = --quantity;
         displayQuantity(quantity);
     }
