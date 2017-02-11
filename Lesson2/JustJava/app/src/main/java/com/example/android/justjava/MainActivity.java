@@ -111,7 +111,7 @@ public class MainActivity extends AppCompatActivity {
         priceMessage += "\nAdd chocolate? " + addChocolate;
         priceMessage += "\nQuantity: " + quantity;
         priceMessage += "\nTotal: $" + price;
-        priceMessage += "\nThank you! :)";
+        priceMessage += "\n" + getString(R.string.thank_you);
         return priceMessage;
     }
 
