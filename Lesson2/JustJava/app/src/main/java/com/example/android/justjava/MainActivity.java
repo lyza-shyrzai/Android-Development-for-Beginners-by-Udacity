@@ -106,11 +106,11 @@ public class MainActivity extends AppCompatActivity {
      * @return text summary
      */
     private String createOrderSummary(String name, int price, boolean addWhippedCream, boolean addChocolate) {
-        String priceMessage = "Name: " + name;
-        priceMessage += "\nAdd whipped cream? " + addWhippedCream;
-        priceMessage += "\nAdd chocolate? " + addChocolate;
-        priceMessage += "\nQuantity: " + quantity;
-        priceMessage += "\nTotal: $" + price;
+        String priceMessage = getString(R.string.order_summary_name) + name;
+        priceMessage += "\n" + getString(R.string.addWhippedCream) + addWhippedCream;
+        priceMessage += "\n" + getString(R.string.addChocolate) + addChocolate;
+        priceMessage += "\n" + getString(R.string.quantity) + ": " + quantity;
+        priceMessage += "\n" + getString(R.string.total) + price;
         priceMessage += "\n" + getString(R.string.thank_you);
         return priceMessage;
     }

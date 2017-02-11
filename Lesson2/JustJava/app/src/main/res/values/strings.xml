@@ -1,11 +1,14 @@
-<resources>
+<resources xmlns:xliff="http://schemas.android.com/tools">
     <string name="app_name">Just Java</string>
 
     <string name="toppings">Toppings</string>
     <string name="thank_you">Thank you! :)</string>
     <string name="quantity">Quantity</string>
     <string name="order">Order</string>
-    <string name="name">Name</string>
     <string name="whipped_cream">Whipped cream</string>
     <string name="chocolate">Chocolate</string>
+    <string name="addWhippedCream">Add whipped cream?</string>
+    <string name="addChocolate">Add chocolate?</string>
+    <string name="total">Total: $ </string>
+    <string name="order_summary_name">Name</string>
 </resources>
