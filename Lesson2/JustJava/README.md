@@ -2,7 +2,7 @@
 
 ![](https://github.com/Liza-S/Android-Development-for-Beginners-by-Udacity/blob/master/Lesson2/JustJava/Screenshots/app.png)
 
-The app is done as task of course [Android Basics: User Input](https://www.udacity.com/course/android-development-for-beginners--ud837) during two lessons.
+The app is done as task of course [Android Basics: User Input](https://www.udacity.com/course/android-development-for-beginners--ud837) during two lessons. I made all the tasks programmatically and will introduce You what I have done overall.
 
 -----------------
 This is Just Java App. This application is designed for order coffee. 
