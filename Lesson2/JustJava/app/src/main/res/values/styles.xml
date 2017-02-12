@@ -6,6 +6,7 @@
         <item name="colorPrimary">#9E9E9E</item>
         <item name="colorPrimaryDark">#616161</item>
         <item name="colorAccent">#FFC107</item>
+        <item name="textColorPrimary">#212121</item>
     </style>
 
     <!-- Style for header text in the other form -->
