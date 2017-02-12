@@ -12,7 +12,7 @@ Projects:
 
 ------------------------------------------------------------------------------------------------------------------------------------------
 
-First project: [Happy Birthday App](https://github.com/Liza-S/Android-Development-for-Beginners-by-Udacity/blob/master/PracticeSet1/HappyBirthday/README.md)
+##First project: [Happy Birthday App](https://github.com/Liza-S/Android-Development-for-Beginners-by-Udacity/blob/master/PracticeSet1/HappyBirthday/README.md)
 
 ![](https://github.com/Liza-S/Android-Development-for-Beginners-by-Udacity/blob/master/PracticeSet1/HappyBirthday/ScreenShots/ScreenShot.png)
 
@@ -30,7 +30,7 @@ Everything was done right.
 
 ------------------------------------------------------------------------------------------------------------------------------------------
 
-Second project: [Merry Cristmas Card](https://github.com/Liza-S/Android-Development-for-Beginners-by-Udacity/blob/master/PracticeSet1/MerryChristmasCard/README.md)
+##Second project: [Merry Cristmas Card](https://github.com/Liza-S/Android-Development-for-Beginners-by-Udacity/blob/master/PracticeSet1/MerryChristmasCard/README.md)
 
 ![](https://github.com/Liza-S/Android-Development-for-Beginners-by-Udacity/blob/master/PracticeSet1/MerryChristmasCard/ScreenShots/app.png)
 
@@ -47,7 +47,7 @@ Everything was done right.
 4. Correctly post the text of congratulations considering screen size
 
 ------------------------------------------------------------------------------------------
-Third project: [Court Counter](https://github.com/Liza-S/Android-Development-for-Beginners-by-Udacity/tree/master/PracticeSet2/CourtCounter)
+##Third project: [Court Counter](https://github.com/Liza-S/Android-Development-for-Beginners-by-Udacity/tree/master/PracticeSet2/CourtCounter)
 
 ![](https://github.com/Liza-S/Android-Development-for-Beginners-by-Udacity/blob/master/PracticeSet2/CourtCounter/ScreenShot/app.png)
 
@@ -65,7 +65,7 @@ This app consists of:
 
 ---------------------------------
 
-Fourth project: [Cookies](https://github.com/Liza-S/Android-Development-for-Beginners-by-Udacity/tree/master/Lesson3/Cookies)
+##Fourth project: [Cookies](https://github.com/Liza-S/Android-Development-for-Beginners-by-Udacity/tree/master/Lesson3/Cookies)
 
 ![](https://github.com/Liza-S/Android-Development-for-Beginners-by-Udacity/blob/master/Lesson3/Cookies/screenshots/app.gif)
 
@@ -77,7 +77,7 @@ Task have been done by me programmatically.
 
 -------------------------------------------------
 
-Fifth project: [Menu](https://github.com/Liza-S/Android-Development-for-Beginners-by-Udacity/tree/master/Lesson3/Menu)
+##Fifth project: [Menu](https://github.com/Liza-S/Android-Development-for-Beginners-by-Udacity/tree/master/Lesson3/Menu)
 
 ![](https://github.com/Liza-S/Android-Development-for-Beginners-by-Udacity/blob/master/Lesson3/Menu/screenshots/app.png)
 
@@ -90,7 +90,7 @@ Task have been done by me programmatically. In the log, when you press the butto
 
 -------------------------------------------
 
-Sixth project: [Just Java](https://github.com/Liza-S/Android-Development-for-Beginners-by-Udacity/tree/master/Lesson2/JustJava)
+##Sixth project: [Just Java](https://github.com/Liza-S/Android-Development-for-Beginners-by-Udacity/tree/master/Lesson2/JustJava)
 
 ![](https://github.com/Liza-S/Android-Development-for-Beginners-by-Udacity/blob/master/Lesson2/JustJava/Screenshots/app.png)
 
