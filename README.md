@@ -12,11 +12,11 @@ Projects:
 
 ------------------------------------------------------------------------------------------------------------------------------------------
 
-##First project: [Happy Birthday App](https://github.com/Liza-S/Android-Development-for-Beginners-by-Udacity/blob/master/PracticeSet1/HappyBirthday/README.md)
+## First project: [Happy Birthday App](https://github.com/Liza-S/Android-Development-for-Beginners-by-Udacity/blob/master/PracticeSet1/HappyBirthday/README.md)
 
 ![](https://github.com/Liza-S/Android-Development-for-Beginners-by-Udacity/blob/master/PracticeSet1/HappyBirthday/ScreenShots/ScreenShot.png)
 
-####Task: create a Happy Birthday Card. 
+#### Task: create a Happy Birthday Card. 
 Everything was done right.
 
 ### TODO
@@ -30,11 +30,11 @@ Everything was done right.
 
 ------------------------------------------------------------------------------------------------------------------------------------------
 
-##Second project: [Merry Cristmas Card](https://github.com/Liza-S/Android-Development-for-Beginners-by-Udacity/blob/master/PracticeSet1/MerryChristmasCard/README.md)
+## Second project: [Merry Cristmas Card](https://github.com/Liza-S/Android-Development-for-Beginners-by-Udacity/blob/master/PracticeSet1/MerryChristmasCard/README.md)
 
 ![](https://github.com/Liza-S/Android-Development-for-Beginners-by-Udacity/blob/master/PracticeSet1/MerryChristmasCard/ScreenShots/app.png)
 
-####Task: create a Own Card. I done Merry Christmas Card for Android tablets. 
+#### Task: create a Own Card. I done Merry Christmas Card for Android tablets. 
 Everything was done right.
 
 ### TODO
@@ -47,7 +47,7 @@ Everything was done right.
 4. Correctly post the text of congratulations considering screen size
 
 ------------------------------------------------------------------------------------------
-##Third project: [Court Counter](https://github.com/Liza-S/Android-Development-for-Beginners-by-Udacity/tree/master/PracticeSet2/CourtCounter)
+## Third project: [Court Counter](https://github.com/Liza-S/Android-Development-for-Beginners-by-Udacity/tree/master/PracticeSet2/CourtCounter)
 
 ![](https://github.com/Liza-S/Android-Development-for-Beginners-by-Udacity/blob/master/PracticeSet2/CourtCounter/ScreenShot/app.png)
 
@@ -65,11 +65,11 @@ This app consists of:
 
 ---------------------------------
 
-##Fourth project: [Cookies](https://github.com/Liza-S/Android-Development-for-Beginners-by-Udacity/tree/master/Lesson3/Cookies)
+## Fourth project: [Cookies](https://github.com/Liza-S/Android-Development-for-Beginners-by-Udacity/tree/master/Lesson3/Cookies)
 
 ![](https://github.com/Liza-S/Android-Development-for-Beginners-by-Udacity/blob/master/Lesson3/Cookies/screenshots/app.gif)
 
-####Task: Hook up the “Eat Cookie" button so that, when it's clicked, the image and the text change. 
+#### Task: Hook up the “Eat Cookie" button so that, when it's clicked, the image and the text change. 
 
 Task have been done by me programmatically.
 
@@ -77,11 +77,11 @@ Task have been done by me programmatically.
 
 -------------------------------------------------
 
-##Fifth project: [Menu](https://github.com/Liza-S/Android-Development-for-Beginners-by-Udacity/tree/master/Lesson3/Menu)
+## Fifth project: [Menu](https://github.com/Liza-S/Android-Development-for-Beginners-by-Udacity/tree/master/Lesson3/Menu)
 
 ![](https://github.com/Liza-S/Android-Development-for-Beginners-by-Udacity/blob/master/Lesson3/Menu/screenshots/app.png)
 
-####Task: 
+#### Task: 
 When you press the button Print menu to logs the XML code has already been set up to trigger a method called printToLogs. Add code to this method to read data from each of the menu item TextViews and to print the value of each menu item to the logs.
 
 Task have been done by me programmatically. In the log, when you press the button, the menu list appears, which was on application screen.
@@ -90,7 +90,7 @@ Task have been done by me programmatically. In the log, when you press the butto
 
 -------------------------------------------
 
-##Sixth project: [Just Java](https://github.com/Liza-S/Android-Development-for-Beginners-by-Udacity/tree/master/Lesson2/JustJava)
+## Sixth project: [Just Java](https://github.com/Liza-S/Android-Development-for-Beginners-by-Udacity/tree/master/Lesson2/JustJava)
 
 ![](https://github.com/Liza-S/Android-Development-for-Beginners-by-Udacity/blob/master/Lesson2/JustJava/Screenshots/app.png)
 
